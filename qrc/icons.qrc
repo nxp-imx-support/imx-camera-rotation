@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="play">../assets/icons/play.svg</file>
+        <file alias="pause">../assets/icons/pause.svg</file>
+        <file alias="stop">../assets/icons/stop.svg</file>
+        <file alias="rotate_L">../assets/icons/rotate_L.svg</file>
+        <file alias="rotate_R">../assets/icons/rotate_R.svg</file>
+    </qresource>
+</RCC>

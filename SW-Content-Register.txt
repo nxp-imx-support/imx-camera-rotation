@@ -1,0 +1,30 @@
+NXP Software Content Register
+
+--------------------------------------------
+
+Package:                    imx-camera-rotation
+Version:                    1.0
+Date:                       October 2025
+Outgoing License:           BSD-3-Clause
+License File:               LICENSE.txt
+Package Category:           Example application
+Type of content:            source, qml
+Description and comments:   application to demonstrate methods to accelerate video rotation on NXP i.MX platforms, using OpenGL, OpenCV or G2D as backends, and V4L2 as camera input.
+Release Location:           https://github.com/nxp-imx-support/imx-camera-rotation
+Origin:                     NXP (BSD-3-Clause)
+                            The Qt Company Ltd. (BSD-3-Clause)
+                                https://code.qt.io/cgit/qt/qtdeclarative.git/tree/examples/quick/scenegraph/openglunderqml?h=6.5.3
+                                https://code.qt.io/cgit/qt/qtdeclarative.git/tree/examples/quick/scenegraph/rendernode?h=5.15
+                            The Qt Company Ltd. (LGPL-3.0-only) - https://github.com/qt
+                            Gstreamer (LGPL-2.1-only) - https://github.com/GStreamer/gstreamer
+
+--------------------------------------------
+Package:                    assets
+Version:                    1.0
+Date:                       October 2025
+Outgoing License:           Apache-2.0
+License File:               licenses/Apache-2.0.txt
+Package Category:           UI
+Type of content:            Icons and images
+Description and comments:   UI icons for media controls
+Origin:                     Google Fonts (Apache-2.0) - https://fonts.google.com/icons
