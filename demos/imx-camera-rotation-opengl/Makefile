@@ -1,3 +1,8 @@
+
+# Copyright 2025 NXP
+
+# SPDX-License-Identifier: BSD-3-Clause
+
 # Compiler settings
 CFLAGS ?= -std=c11 -Wall -Wextra -Werror -Wno-unused-parameter -g
 PKG_CONFIG ?= pkg-config

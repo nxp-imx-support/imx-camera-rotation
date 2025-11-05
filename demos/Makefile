@@ -1,3 +1,8 @@
+
+# Copyright 2025 NXP
+
+# SPDX-License-Identifier: BSD-3-Clause
+
 SUBDIRS := imx-camera-rotation-g2d imx-camera-rotation-opencv imx-camera-rotation-opengl
 
 .PHONY: all $(SUBDIRS) clean
