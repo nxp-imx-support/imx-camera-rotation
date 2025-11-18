@@ -1,0 +1,199 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2025-11-18T17:02:58Z",
+    "creators": [
+      "Organization: NXP"
+    ],
+    "licenseListVersion": "3.20"
+  },
+  "name": "imx-camera-rotation-1.0",
+  "dataLicense": "CC0-1.0",
+  "documentNamespace": "https://nxp.com/spdx/4ca41f63-0198-4f5f-9ced-67bfba0e87d5",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-package-0ceae07d-6680-4f43-8fb7-c23f7d69c820",
+      "name": "wayland-scanner",
+      "versionInfo": "0.1.0",
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
+      "homepage": "https://github.com/ybakos/wayland-scanner",
+      "downloadLocation": "https://github.com/ybakos/wayland-scanner/tree/v0.1.0",
+      "originator": "Organization: ybakos",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:github/ybakos/wayland-scanner@v0.1.0",
+          "referenceType": "purl"
+        },
+        {
+          "referenceCategory": "OTHER",
+          "referenceLocator": "fd02bbb4-e606-4b93-900d-ec0aded8d0b2",
+          "referenceType": "BlackDuck-ComponentOrigin"
+        }
+      ],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-30aeb3bd-6fb7-43ef-9e98-eda7684848ce",
+      "name": "swaywm/wlroots",
+      "versionInfo": "0.1",
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
+      "homepage": "https://gitlab.freedesktop.org/wlroots/wlroots/",
+      "downloadLocation": "https://github.com/swaywm/wlroots/tree/0.1",
+      "originator": "Organization: swaywm",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:github/swaywm/wlroots@0.1",
+          "referenceType": "purl"
+        },
+        {
+          "referenceCategory": "OTHER",
+          "referenceLocator": "fff8d83a-201d-462d-9212-0d323544db0d",
+          "referenceType": "BlackDuck-ComponentOrigin"
+        }
+      ],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-3f96694c-c4bb-4344-a0a6-98923223c58e",
+      "name": "Apache License 2.0",
+      "versionInfo": "2.0",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "homepage": "http://www.apache.org",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: Apache License 2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-4ca41f63-0198-4f5f-9ced-67bfba0e87d5",
+      "name": "imx-camera-rotation",
+      "versionInfo": "1.0",
+      "licenseConcluded": "(BSD-3-Clause)",
+      "licenseDeclared": "(BSD-3-Clause)",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: imx-camera-rotation",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-83d32ca1-6f06-45f1-9a59-d55187036452",
+      "name": "krad_radio",
+      "versionInfo": "Version_26",
+      "licenseConcluded": "ISC",
+      "licenseDeclared": "ISC",
+      "homepage": "http://kradradio.com",
+      "downloadLocation": "https://github.com/krad-radio/krad_radio/tree/Version_26",
+      "originator": "Organization: krad-radio",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:github/krad-radio/krad_radio@Version_26",
+          "referenceType": "purl"
+        },
+        {
+          "referenceCategory": "OTHER",
+          "referenceLocator": "70b885f3-044e-4bab-a419-206a8c1ba871",
+          "referenceType": "BlackDuck-ComponentOrigin"
+        }
+      ],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-be766eee-e8d8-42e0-ad2d-88e715eb063d",
+      "name": "wayland",
+      "versionInfo": "1.21.0",
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
+      "homepage": "https://gitlab.freedesktop.org/wayland/wayland",
+      "downloadLocation": "https://conda.anaconda.org/conda-forge/linux-aarch64",
+      "originator": "Organization: anaconda",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:conda/wayland@1.21.0-h6cae782_0-linux-aarch64",
+          "referenceType": "purl"
+        },
+        {
+          "referenceCategory": "OTHER",
+          "referenceLocator": "0b9ecb43-d71a-4f41-af89-9adfce8dd260",
+          "referenceType": "BlackDuck-ComponentOrigin"
+        }
+      ],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-c972fc8f-d96e-4f87-a04a-ecfb63cb5e2c",
+      "name": "grpc-source",
+      "versionInfo": "1.70.1",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "homepage": "http://grpc.io/",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: opensuse",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "OTHER",
+          "referenceLocator": "b3464e8d-9b34-462a-8a61-054bd31f48e4",
+          "referenceType": "BlackDuck-ComponentOrigin"
+        },
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:rpm/opensuse/grpc-source@1.70.1-1.3?arch=noarch",
+          "referenceType": "purl"
+        }
+      ],
+      "filesAnalyzed": false
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-package-4ca41f63-0198-4f5f-9ced-67bfba0e87d5",
+      "relationshipType": "OTHER",
+      "relatedSpdxElement": "SPDXRef-package-3f96694c-c4bb-4344-a0a6-98923223c58e",
+      "comment": "Separate Work"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-4ca41f63-0198-4f5f-9ced-67bfba0e87d5",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-0ceae07d-6680-4f43-8fb7-c23f7d69c820"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-4ca41f63-0198-4f5f-9ced-67bfba0e87d5",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-30aeb3bd-6fb7-43ef-9e98-eda7684848ce"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-package-4ca41f63-0198-4f5f-9ced-67bfba0e87d5"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-4ca41f63-0198-4f5f-9ced-67bfba0e87d5",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-83d32ca1-6f06-45f1-9a59-d55187036452"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-4ca41f63-0198-4f5f-9ced-67bfba0e87d5",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-be766eee-e8d8-42e0-ad2d-88e715eb063d"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-4ca41f63-0198-4f5f-9ced-67bfba0e87d5",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-c972fc8f-d96e-4f87-a04a-ecfb63cb5e2c"
+    }
+  ]
+}
