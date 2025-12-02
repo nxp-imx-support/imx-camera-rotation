@@ -14,7 +14,7 @@
 
 
 
-[*Video Rotation Acceleration*](https://bitbucket.sw.nxp.com/projects/MAG/repos/imx-camera-rotation/browse) demonstrates methods to accelerate video rotation on NXP i.MX platforms, enabling more stable and readable video streams from moving cameras—particularly useful in medical or industrial inspection scenarios where cameras are hand-held or rotating.
+[*Video Rotation Acceleration*](https://github.com/nxp-imx-support/imx-camera-rotation) demonstrates methods to accelerate video rotation on NXP i.MX platforms, enabling more stable and readable video streams from moving cameras—particularly useful in medical or industrial inspection scenarios where cameras are hand-held or rotating.
 
 <img src="./data/Slide1.SVG" width="720">
 
@@ -80,7 +80,7 @@ Clone the repository:
 ```bash
 mkdir Video_Rotation
 cd Video_Rotation
-git clone ssh://git@bitbucket.sw.nxp.com/mag/imx-camera-rotation.git
+git clone https://github.com/nxp-imx-support/imx-camera-rotation.git
 cd imx-camera-rotation
 ```
 
